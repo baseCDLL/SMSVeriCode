@@ -1,0 +1,11 @@
+文件说明：
+
+sentSMS.aspx（发送短信）
+
+getReceipt.aspx（获取回执）
+
+getReply.aspx（获取回复）
+
+只需要在App_Code/config.cs文件里设置你的响应的请求参数即可正常使用。
+
+——By 咻尔特_短信验证码团队 https://snd.kim/SMSVCAPI
